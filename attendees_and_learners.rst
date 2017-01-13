@@ -1,4 +1,4 @@
-####################
+﻿####################
 Attendees & learners
 ####################
 
@@ -344,4 +344,4 @@ I followed the tutorial online
 * Dieter Jansen - https://github.com/dieterjansen - 2016-04-20
 * Josh Long
 * Jason Gardner
-* Ana
+* Ana https://github.com/amhp46  1-10-2017
